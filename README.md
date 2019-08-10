@@ -14,13 +14,13 @@
 * 추후 추가
 
 
-##TODO
+## TODO
 
 - [x] 모델생성
 - [ ] 컨트롤러
 - [ ] 서비스
 
-##TODO REST-API 스팩
+## TODO REST-API 스팩
 * Model
     * Todo
         * id
